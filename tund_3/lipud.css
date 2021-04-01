@@ -195,17 +195,14 @@ table {
 }
 
 #norra tr:nth-child(2) td:nth-child(1) {
-    width: 105px;
     background-color: #fff;
 }
 
 #norra tr:nth-child(2) td:nth-child(2) {
-    width: 30px;
     background-color: #002469;
 }
 
 #norra tr:nth-child(2) td:nth-child(3) {
-    width: 195px;
     background-color: #fff;
 }
 
@@ -219,17 +216,14 @@ table {
 }
 
 #norra tr:nth-child(4) td:nth-child(1) {
-    width: 105px;
     background-color: #fff;
 }
 
 #norra tr:nth-child(4) td:nth-child(2) {
-    width: 30px;
     background-color: #002469;
 }
 
 #norra tr:nth-child(4) td:nth-child(3) {
-    width: 195px;
     background-color: #fff;
 }
 
@@ -238,27 +232,22 @@ table {
 }
 
 #norra tr:nth-child(5) td:nth-child(1) {
-    width: 90px;
     background-color: #BA122B;
 }
 
 #norra tr:nth-child(5) td:nth-child(2) {
-    width: 15px;
     background-color: #fff;
 }
 
 #norra tr:nth-child(5) td:nth-child(3) {
-    width: 30px;
     background-color: #002469;
 }
 
 #norra tr:nth-child(5) td:nth-child(4) {
-    width: 15px;
     background-color: #fff;
 }
 
 #norra tr:nth-child(5) td:nth-child(5) {
-    width: 180px;
     background-color: #BA122B;
 }
 
